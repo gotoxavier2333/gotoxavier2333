@@ -144,12 +144,6 @@
 
 ###
 
-[![Auto Commit](https://github.com/gotoxavier2333/github.actions/actions/workflows/auto-commit.yml/badge.svg)](https://github.com/gotoxavier2333/github.actions/actions/workflows/auto-commit.yml)
-[![Generate snake animation](https://github.com/gotoxavier2333/github.actions/actions/workflows/snake.yml/badge.svg)](https://github.com/gotoxavier2333/github.actions/actions/workflows/snake.yml)
-[![GH Action](https://github.com/gotoxavier2333/github.actions/actions/workflows/gh-action.yml/badge.svg)](https://github.com/gotoxavier2333/github.actions/actions/workflows/gh-action.yml)
-[![Learn github actions](https://github.com/gotoxavier2333/github.actions/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/gotoxavier2333/github.actions/actions/workflows/learn-github-actions.yml)
-
-
 **gotoxavier2333/gotoxavier2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
