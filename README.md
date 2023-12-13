@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-gotoxavier2333.svg)](https://GitHub.com/Naereen/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![HitCount](https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square)](http://hits.dwyl.com/gotoxavier2333/gotoxavier2333)
 
-<!--
 **gotoxavier2333/gotoxavier2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
