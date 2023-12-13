@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Karl Xavier and I'm a software engineer, from China</h2>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" height="15" alt="made" />
-  <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="15" alt="hit"  />
+  <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" height="25" alt="made" />
+  <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="25" alt="hit"  />
 </div>
 
 
@@ -162,6 +162,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### 🏳️‍🌈 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
