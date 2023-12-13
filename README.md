@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Karl Xavier and I'm a software engineer, from China</h2>
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![HitCount](https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square)](http://hits.dwyl.com/gotoxavier2333/gotoxavier2333)
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="35" alt="made" />
+  <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="35" alt="hit"  />
+</div>
+
+
 ###
 
 <div align="center">
