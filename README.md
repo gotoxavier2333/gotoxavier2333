@@ -9,16 +9,6 @@
   <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="25" alt="hit"  />
 </div>
 
-
-###
-
-<div align="center">
-  <!-- HTML -->
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
-</div>
-
-###
-
 ###
 
 <div align="center">
@@ -28,8 +18,19 @@
 
 ###
 
+
+###
+<h4 align="left">Jokes Card</h4>
+<div align="center">
+  <!-- HTML -->
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
+</div>
+
 ###
 
+###
+
+<h4 align="left">CODE WITH</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,go,c,js,html,css" />
@@ -40,7 +41,7 @@
 
 ###
 
-<h4 align="left"> CL USED </h4>
+<h4 align="left"> CICD USED </h4>
 <div align="left">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="35" alt="wechat logo"  />
 </div>
