@@ -1,4 +1,20 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
+
+
+
+
+
+<div align="center">
+  <img src="https://github.com/gotoxavier2333/gotoxavier2333/blob/main/github-header-image.png" alt="github-header-image" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" height="25" alt="made" />
+  <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="25" alt="hit"  />
+</div>
+
 <p align='center'>
 
 </p>
@@ -16,20 +32,6 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source...
 
-
-
-
-<div align="center">
-  <img src="https://github.com/gotoxavier2333/gotoxavier2333/blob/main/github-header-image.png" alt="github-header-image" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" height="25" alt="made" />
-  <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="25" alt="hit"  />
-</div>
-
 ###
 
 <div align="center">
@@ -41,7 +43,7 @@
 
 
 ###
-<h4 align="left">Jokes card</h4>
+<h2 align="left">Jokes card</h2>
 <div align="center">
   <!-- HTML -->
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
@@ -51,7 +53,7 @@
 
 ###
 
-<h4 align="left">Programming language used</h4>
+<h2 align="left">Programming language used</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,go,c,js,html,css" />
@@ -62,14 +64,14 @@
 
 ###
 
-<h4 align="left">Wiki</h4>
+<h2 align="left">Wiki</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white" height="35" alt="wechat logo"  />
 </div>
 
 ###
 
-<h4 align="left">Social</h4>
+<h2 align="left">Social</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" height="35" alt="wechat logo"  />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
@@ -79,7 +81,7 @@
 
 ###
 
-<h4 align="left">IDE</h4>
+<h2 align="left">IDE</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="35" alt="swithc logo" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="35" alt="swithc logo" />
@@ -91,7 +93,7 @@
 
 ###
 
-<h4 align="left">OS</h4>
+<h2 align="left">OS</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux logo" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" alt="windows logo" />
@@ -102,7 +104,7 @@
 
 ###
 
-<h4> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h4>
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <div align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="docker logo" />
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" height="35" alt="es logo" />
