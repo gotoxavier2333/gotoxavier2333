@@ -14,5 +14,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
