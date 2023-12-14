@@ -20,7 +20,7 @@
 
 
 ###
-<h4 align="left">Jokes Card</h4>
+<h4 align="left">Jokes card</h4>
 <div align="center">
   <!-- HTML -->
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">CODE WITH</h4>
+<h4 align="left">Programming language used</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,go,c,js,html,css" />
@@ -41,34 +41,14 @@
 
 ###
 
-<h4 align="left"> CICD USED </h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="35" alt="wechat logo"  />
-</div>
-
-###
-
-###
-
-<h4 align="left"> DB USED </h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="wechat logo"  />
-</div>
-
-###
-
-###
-
-<h4 align="left"> WIKI USED </h4>
+<h4 align="left">Wiki</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white" height="35" alt="wechat logo"  />
 </div>
 
 ###
 
-<h4 align="left"> SOCIAL USED </h4>
+<h4 align="left">Social</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" height="35" alt="wechat logo"  />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
@@ -78,36 +58,11 @@
 
 ###
 
-<h4 align="left"> PLATFORM USED </h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" height="35" alt="wechat logo"  />
-</div>
-
-###
-
-###
-
-<h4 align="left"> GAMES USED </h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" height="35" alt="swithc logo" />
-</div>
-
-###
-
-###
-
-<h4 align="left"> IDE USED </h4>
+<h4 align="left">IDE</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="35" alt="swithc logo" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="35" alt="swithc logo" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="35" alt="swithc logo" />
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" height="35" alt="swithc logo" />
 </div>
 
@@ -115,19 +70,18 @@
 
 ###
 
-<h4 align="left"> SYSTEM USED </h4>
+<h4 align="left">OS</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux logo" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" alt="windows logo" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="35" alt="macos logo" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="35" alt="ios logo" />
 </div>
 
 ###
 
 ###
 
-<h4 align="left"> TOOLS USED </h4>
+<h4 align="left">Tools used</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="docker logo" />
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" height="35" alt="es logo" />
@@ -139,6 +93,9 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="35" alt="jenkins logo" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="35" alt="nginx logo" />
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="35" alt="tomcat logo" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="wechat logo"  />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="wechat logo"  />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="wechat logo"  />
 </div>
 
 ###
