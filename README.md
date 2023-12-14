@@ -122,7 +122,8 @@ Here are some ideas to get you started:
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [Hi, I&#39;m gotoxavier2333](https://dev.to/gotoxavier2333/hi-im-gotoxavier2333-2665)<!-- BLOG-POST-LIST:END -->
+ - 💫 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)
+ - 🚀 : [Hi, I&#39;m gotoxavier2333](https://dev.to/gotoxavier2333/hi-im-gotoxavier2333-2665)<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
