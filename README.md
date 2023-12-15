@@ -153,9 +153,9 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/gotoxavier2333/github.actions/issues/1) in [gotoxavier2333/github.actions](https://github.com/gotoxavier2333/github.actions)
-2. 🎉 Merged PR [#2](https://github.com/gotoxavier2333/qbq/pull/2) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
-3. 💪 Opened PR [#2](https://github.com/gotoxavier2333/qbq/pull/2) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
-4. 🎉 Merged PR [#1](https://github.com/gotoxavier2333/qbq/pull/1) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
+1. ❗ Opened issue [#1](https://github.com/gotoxavier2333/gotoxavier2333/issues/1) in [gotoxavier2333/gotoxavier2333](https://github.com/gotoxavier2333/gotoxavier2333)
+2. ❗ Opened issue [#1](https://github.com/gotoxavier2333/github.actions/issues/1) in [gotoxavier2333/github.actions](https://github.com/gotoxavier2333/github.actions)
+3. 🎉 Merged PR [#2](https://github.com/gotoxavier2333/qbq/pull/2) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
+4. 💪 Opened PR [#2](https://github.com/gotoxavier2333/qbq/pull/2) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
 5. 💪 Opened PR [#1](https://github.com/gotoxavier2333/qbq/pull/1) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
 <!--END_SECTION:activity-->
