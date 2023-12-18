@@ -147,7 +147,8 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)
+ - 💫 : [A cross-platform graphical system monitor](https://dev.to/gotoxavier2333/a-cross-platform-graphical-system-monitor-3oi4)
+ - 🚀 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)
  - 🚀 : [Hi, I&#39;m gotoxavier2333](https://dev.to/gotoxavier2333/hi-im-gotoxavier2333-2665)<!-- BLOG-POST-LIST:END -->
 
 
