@@ -147,9 +147,10 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [How to possesses an astonishing vocabulary](https://dev.to/gotoxavier2333/how-to-possesses-an-astonishing-vocabulary-4183)
+ - 💫 : [Writing a chapter in English](https://dev.to/gotoxavier2333/writing-a-chapter-in-english-1lpa)
+ - 🚀 : [How to possesses an astonishing vocabulary](https://dev.to/gotoxavier2333/how-to-possesses-an-astonishing-vocabulary-4183)
  - 🚀 : [A cross-platform graphical system monitor](https://dev.to/gotoxavier2333/a-cross-platform-graphical-system-monitor-3oi4)
- - 🚀 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)
+ - 💯 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)
  - 💯 : [Hi, I&#39;m gotoxavier2333](https://dev.to/gotoxavier2333/hi-im-gotoxavier2333-2665)<!-- BLOG-POST-LIST:END -->
 
 
