@@ -147,11 +147,11 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [On Writing Well &lpar;Part I&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)
+ - 💫 : [iTerm2 with tmux -CC](https://dev.to/gotoxavier2333/iterm2-with-tmux-cc-4k9e)
+ - 🚀 : [On Writing Well &lpar;Part I The Transaction&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)
  - 🚀 : [Writing a chapter in English](https://dev.to/gotoxavier2333/writing-a-chapter-in-english-1lpa)
- - 🚀 : [How to possesses an astonishing vocabulary](https://dev.to/gotoxavier2333/how-to-possesses-an-astonishing-vocabulary-4183)
- - 💯 : [A cross-platform graphical system monitor](https://dev.to/gotoxavier2333/a-cross-platform-graphical-system-monitor-3oi4)
- - 💯 : [Quicksort &amp; Mergesort With C](https://dev.to/gotoxavier2333/quicksort-mergesort-with-c-d05)<!-- BLOG-POST-LIST:END -->
+ - 💯 : [How to possesses an astonishing vocabulary](https://dev.to/gotoxavier2333/how-to-possesses-an-astonishing-vocabulary-4183)
+ - 💯 : [A cross-platform graphical system monitor](https://dev.to/gotoxavier2333/a-cross-platform-graphical-system-monitor-3oi4)<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
