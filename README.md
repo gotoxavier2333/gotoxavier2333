@@ -1,11 +1,5 @@
-
-
-
-
-
-
 <div align="center">
-  <img src="https://github.com/gotoxavier2333/gotoxavier2333/blob/main/github-header-image.png" alt="github-header-image" />
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gotoxavier2333/gotoxavier2333/blob/main/devcard.svg" width="400" alt="Gotoxavier2333's Dev Card"/></a>
 </div>
 
 ###
