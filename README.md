@@ -9,23 +9,6 @@
   <img src="https://hits.dwyl.com/gotoxavier2333/gotoxavier2333.svg?style=flat-square" height="25" alt="hit"  />
 </div>
 
-<p align='center'>
-
-</p>
-<div size='20px'> Hi! My name is gotoxavier2333. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-- 🔭 I’m currently working on Github projects, blogs etc...
-
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
-
-- 👯 I’m looking to collaborate on projects, tech articles... 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source...
-
 ###
 
 <div align="center">
@@ -53,48 +36,6 @@
     <img src="https://skillicons.dev/icons?i=java,py,go,c,js,html,css" />
   </a>
 </p>
-
-###
-
-###
-
-<h2 align="left">Wiki</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white" height="35" alt="wechat logo"  />
-</div>
-
-###
-
-<h2 align="left">Social</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" height="35" alt="wechat logo"  />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-</div>
-
-###
-
-###
-
-<h2 align="left">IDE</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="35" alt="swithc logo" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" height="35" alt="swithc logo" />
-</div>
-
-###
-
-###
-
-<h2 align="left">OS</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux logo" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" alt="windows logo" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="35" alt="macos logo" />
-</div>
-
-###
 
 ###
 
