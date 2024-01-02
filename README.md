@@ -56,14 +56,6 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="wechat logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://github.com/gotoxavier2333/github.actions/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### 🎹 Waka
 <!--START_SECTION:waka-->
 
