@@ -81,11 +81,11 @@ Vim Script   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)
+ - 💫 : [Suspending vim](https://dev.to/gotoxavier2333/suspending-vim-cca)
+ - 🚀 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)
  - 🚀 : [On Writing Well &lpar;Part I Simplicity&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-simplicity-3mi7)
- - 🚀 : [iTerm2 with tmux -CC](https://dev.to/gotoxavier2333/iterm2-with-tmux-cc-4k9e)
- - 💯 : [On Writing Well &lpar;Part I The Transaction&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)
- - 💯 : [Writing a chapter in English](https://dev.to/gotoxavier2333/writing-a-chapter-in-english-1lpa)<!-- BLOG-POST-LIST:END -->
+ - 💯 : [iTerm2 with tmux -CC](https://dev.to/gotoxavier2333/iterm2-with-tmux-cc-4k9e)
+ - 💯 : [On Writing Well &lpar;Part I The Transaction&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
