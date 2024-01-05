@@ -69,11 +69,11 @@ JavaScript   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [Difference between . and : in Lua programming](https://dev.to/gotoxavier2333/difference-between-and-in-lua-programming-4936)
+ - 💫 : [Four problems can potentially arise if you focus too much on goals](https://dev.to/gotoxavier2333/four-problems-can-potentially-arise-if-you-focus-too-much-on-goals-2n2n)
+ - 🚀 : [Difference between . and : in Lua programming](https://dev.to/gotoxavier2333/difference-between-and-in-lua-programming-4936)
  - 🚀 : [Suspending vim](https://dev.to/gotoxavier2333/suspending-vim-cca)
- - 🚀 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)
- - 💯 : [On Writing Well &lpar;Part I Simplicity&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-simplicity-3mi7)
- - 💯 : [iTerm2 with tmux -CC](https://dev.to/gotoxavier2333/iterm2-with-tmux-cc-4k9e)<!-- BLOG-POST-LIST:END -->
+ - 💯 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)
+ - 💯 : [On Writing Well &lpar;Part I Simplicity&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-simplicity-3mi7)<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
