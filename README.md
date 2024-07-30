@@ -62,11 +62,11 @@ YAML   2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 🏳️‍🌈 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 : [Four problems can potentially arise if you focus too much on goals](https://dev.to/gotoxavier2333/four-problems-can-potentially-arise-if-you-focus-too-much-on-goals-2n2n)
+ - 💫 : [Low code is evil](https://dev.to/gotoxavier2333/low-code-is-evil-3bg0)
+ - 🚀 : [Four problems can potentially arise if you focus too much on goals](https://dev.to/gotoxavier2333/four-problems-can-potentially-arise-if-you-focus-too-much-on-goals-2n2n)
  - 🚀 : [Difference between . and : in Lua programming](https://dev.to/gotoxavier2333/difference-between-and-in-lua-programming-4936)
- - 🚀 : [Suspending vim](https://dev.to/gotoxavier2333/suspending-vim-cca)
- - 💯 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)
- - 💯 : [On Writing Well &lpar;Part I Simplicity&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-simplicity-3mi7)<!-- BLOG-POST-LIST:END -->
+ - 💯 : [Suspending vim](https://dev.to/gotoxavier2333/suspending-vim-cca)
+ - 💯 : [The Pivotal Nexus of Power and Progress](https://dev.to/gotoxavier2333/the-pivotal-nexus-of-power-and-progress-11am)<!-- BLOG-POST-LIST:END -->
 
 
 ### :zap: Recent Activity
