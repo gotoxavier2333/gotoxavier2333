@@ -71,8 +71,8 @@ YAML   2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/gotoxavier2333/writing/pull/1) in [gotoxavier2333/writing](https://github.com/gotoxavier2333/writing)
-2. 💪 Opened PR [#1](https://github.com/gotoxavier2333/writing/pull/1) in [gotoxavier2333/writing](https://github.com/gotoxavier2333/writing)
+1. 🎉 Merged PR [#1](https://github.com/gotoxavier2333/gocc/pull/1) in [gotoxavier2333/gocc](https://github.com/gotoxavier2333/gocc)
+2. 💪 Opened PR [#1](https://github.com/gotoxavier2333/gocc/pull/1) in [gotoxavier2333/gocc](https://github.com/gotoxavier2333/gocc)
 3. ❗ Opened issue [#1](https://github.com/gotoxavier2333/gotoxavier2333/issues/1) in [gotoxavier2333/gotoxavier2333](https://github.com/gotoxavier2333/gotoxavier2333)
 4. ❗ Opened issue [#1](https://github.com/gotoxavier2333/github.actions/issues/1) in [gotoxavier2333/github.actions](https://github.com/gotoxavier2333/github.actions)
 5. 💪 Opened PR [#1](https://github.com/gotoxavier2333/qbq/pull/1) in [gotoxavier2333/qbq](https://github.com/gotoxavier2333/qbq)
